@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Binary search" />
+            <option value="$PROJECT_DIR$/Problems (10)/Book" />
+            <option value="$PROJECT_DIR$/Problems (11)/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems (12)/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems (13)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (14)/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems (15)/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems (16)/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems (17)/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems (18)/Are siblings" />
+            <option value="$PROJECT_DIR$/Problems (19)/Overloading methods" />
+            <option value="$PROJECT_DIR$/Problems (2)/Creating instances" />
+            <option value="$PROJECT_DIR$/Problems (20)/Print" />
+            <option value="$PROJECT_DIR$/Problems (21)/Phone" />
+            <option value="$PROJECT_DIR$/Problems (22)/Time" />
+            <option value="$PROJECT_DIR$/Problems (23)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (25)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (26)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (27)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (28)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (29)/Bank account" />
+            <option value="$PROJECT_DIR$/Problems (3)/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems (30)/Convert a date" />
+            <option value="$PROJECT_DIR$/Problems (31)/Employees" />
+            <option value="$PROJECT_DIR$/Problems (32)/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Problems (33)/Saying animals" />
+            <option value="$PROJECT_DIR$/Problems (34)/Shapes area" />
+            <option value="$PROJECT_DIR$/Problems (35)/Publications" />
+            <option value="$PROJECT_DIR$/Problems (36)/Find mistake" />
+            <option value="$PROJECT_DIR$/Problems (37)/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Problems (38)/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Problems (39)/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Problems (4)/Army" />
+            <option value="$PROJECT_DIR$/Problems (40)/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Problems (41)/Account Service" />
+            <option value="$PROJECT_DIR$/Problems (42)/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Problems (43)/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Problems (44)/Check the value" />
+            <option value="$PROJECT_DIR$/Problems (45)/Motor static factory" />
+            <option value="$PROJECT_DIR$/Problems (46)/Clock factory" />
+            <option value="$PROJECT_DIR$/Problems (47)/Static factory methods for Time" />
+            <option value="$PROJECT_DIR$/Problems (48)/Clocks" />
+            <option value="$PROJECT_DIR$/Problems (49)/Robot" />
+            <option value="$PROJECT_DIR$/Problems (5)/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems (50)/Motors" />
+            <option value="$PROJECT_DIR$/Problems (51)/Robot factory" />
+            <option value="$PROJECT_DIR$/Problems (52)/Laptop store" />
+            <option value="$PROJECT_DIR$/Problems (53)/Burger store" />
+            <option value="$PROJECT_DIR$/Problems (54)/Template Method" />
+            <option value="$PROJECT_DIR$/Problems (55)/Template Method" />
+            <option value="$PROJECT_DIR$/Problems (6)/Complex" />
+            <option value="$PROJECT_DIR$/Problems (7)/Complex" />
+            <option value="$PROJECT_DIR$/Problems (8)/Account" />
+            <option value="$PROJECT_DIR$/Problems (9)/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Problems/Adding values" />
+            <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Employee" />
+            <option value="$PROJECT_DIR$/Problems/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems/The lucky ticket" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
